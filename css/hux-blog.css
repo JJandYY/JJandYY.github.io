@@ -766,6 +766,8 @@ samp {
   letter-spacing: 0.5px;
 }
 .post-container .anchorjs-link {
+  /*修改：增加display: none*/
+  display: none;
   position: absolute;
   padding-top: 1px;
 }
